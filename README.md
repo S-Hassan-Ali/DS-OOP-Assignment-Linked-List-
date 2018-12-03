@@ -33,10 +33,15 @@
 
 1. By using the class 'calc' three complex numbers 'A', 'B' and 'C' have been initialized.
 2. Four more complex numbers have also been intialized i.e:
+	
 	a. 'res' (which contains the addition of 'A' and 'B')
+	
 	b. 'res2' (which contains the subtraction of 'A' and 'C')
+	
 	c. 'res3' (which contains the multiplication of 'B' and 'C')
+	
 	d. 'res4' (which contains the division of 'A' and 'C')
+	
 3. Object named 'Complex' of the class 'list' is made.
 4. Three members of the class (or linked list) i.e 'A', 'B' and 'C. have been created using its methods.
 5. 'res' is inserted as a member of the list at the last.
