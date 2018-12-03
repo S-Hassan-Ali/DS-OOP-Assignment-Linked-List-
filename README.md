@@ -44,7 +44,6 @@
 7. 'res3' is inserted as a member of the list in the last.
 8. 'res4' is inserted as a member of the list in the last.
 9. Fourth member of the list has been deleted.
-
 10.The last member of the list has been deleted.
 	
 	*** Note: The linked list has been displayed as the output after every step. ***
